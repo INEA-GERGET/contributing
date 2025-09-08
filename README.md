@@ -15,5 +15,5 @@ Por favor, consulte o estilo e as diretrizes de contribuição de cada projeto p
    4 - Envie seu trabalho de volta para o seu fork
    5 - Envie uma Pull request para que possamos revisar suas alterações
 
-NOTA: Não faça um merge sem a revisão de um owner ou moderador.
+<b>NOTA: Não faça um merge sem a revisão de um owner ou moderador.</b>
 
