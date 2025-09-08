@@ -11,7 +11,7 @@ Sinta-se livre para submeter issues e solicitações de aprimoramento.
 Por favor, consulte o estilo e as diretrizes de contribuição de cada projeto para enviar patches e adições. Em geral, seguimos o fluxo de trabalho Git "fork-and-pull":
 1. Faça um fork do repositório no GitHub
 2. Clone o projeto para sua própria máquina
-3. Crie seu próprio branch ' branch_nome_de_usurario '
+3. Crie seu próprio branch ' nome_de_usurario-patch-1 '
 4. Faça commit das alterações no seu branch
 5. Envie seu trabalho de volta para o seu fork
 6. Envie uma Pull request para que possamos revisar suas alterações
