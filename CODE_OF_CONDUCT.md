@@ -30,6 +30,20 @@ Comportamento inapropriado/inaceitável é qualquer coisa prejudicial que interf
  - E-mails, mensagens de voz ou postagens em redes sociais ofensivas
  - Ameaças pessoais
 
+## Lei Geral de Proteção de Dados Pessoais (LGPD)
+
+Ao subir arquivos, códigos e pastas ao criar ou ao fazer um pull request para um repositório existente certifique-se que não contenha nenhum dado sensível tais como dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado. O cuidado com a transferência de dados de terceiros refere-se à Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD). 
+
+Por sua vez, o Art. 7 desta Lei, dispõe sobre as condições que o tratamento de dados pessoais poderá ser realizado. Segundo o § 3º deste artigo,
+> "O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram sua disponibilização."
+
+Enquanto que o § 4º dispõe sobre a dispensa do consentimento para o tratamento de dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos na lei. Portanto, não é necessário o consentimento do titular de dados para a realização do referido tratamento.
+
+Ainda, de acordo com o § 7º do mesmo artigo 
+> “O tratamento posterior dos dados pessoais a que se referem os §§ 3º e 4º deste artigo poderá ser realizado para novas finalidades, desde que observados os propósitos legítimos e específicos para o novo tratamento e a preservação dos direitos do titular, assim como os fundamentos e os princípios previstos nesta Lei”.
+
+Todos os princípios da LGPD, como transparência, finalidade e segurança, devem ser respeitados no tratamento de dados públicos. Qualquer infração à LGPD não será aceita e o usuário estará sujeito à devidas penalidades.
+
 ## Relatos
 
 Os mantenedores do repositório reservam-se o direito de remover conteúdo ofensivo. 
