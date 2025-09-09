@@ -1,12 +1,19 @@
 # Código de conduta
 
+## Sumário
+1. [Propósito](#Propósito)
+2. [Expectativas](Expectativas)
+3. [LGPD](#Lei-Geral-de-Proteção-de-Dados-Pessoais-(LGPD))
+4. [Relatos](Relatos)
+5. [Consequencias](Consequencias)
+
 ## Propósito
 
 Com o objetivo de atender as legislações vigentes e disponibilizar os dados e scripts produzidos na instituição, o INEA-GERGET criou este canal eletrônico para disponibilizar e fomentar o compartilhamento de geoinformações sobre o Estado do Rio de Janeiro.
 Aqui é possível encontrar automações, códigos para software GIS e códigos de análise de dados geográficos. 
 Ao adotar este código de conduta, nós, funcionários, servidores e estagiários da GERGET, estamos comprometidos em promover um ambiente acolhedor para colaboração, criatividade e a livre troca de ideias para desenvolver, manter e usar códigos sobre dados geográficos.
 
-Quer seja publicamente ou em particular, e quer seja presencialmente ou online, esperamos que todos os membros desta comunidade interajam profissionalmente e sem assediar os outros, independentemente de raça, cor, crença, gênero, identidade de gênero, religião, estado civil, status de parceiro doméstico, informações genéticas, idade, origem nacional ou ascendência, status militar ou de veterano, orientação sexual, ou deficiência física ou mental.
+Quer seja publicamente ou em particular, e quer seja presencialmente ou online, esperamos que todos os membros desta comunidade interajam profissionalmente e sem importunar os outros, independentemente de raça, cor, crença, gênero, identidade de gênero, religião, estado civil, status de parceiro doméstico, informações genéticas, idade, origem nacional ou ascendência, status militar ou de veterano, orientação sexual, ou deficiência física ou mental.
 
 ## Expectativas
 
