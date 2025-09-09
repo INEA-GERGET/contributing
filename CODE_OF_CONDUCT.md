@@ -32,7 +32,7 @@ Comportamento inapropriado/inaceitável é qualquer coisa prejudicial que interf
 
 ## Lei Geral de Proteção de Dados Pessoais (LGPD)
 
-Ao subir arquivos, códigos e pastas ao criar ou ao fazer um pull request para um repositório existente certifique-se que não contenha nenhum dado sensível tais como dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado. O cuidado com a transferência de dados de terceiros refere-se à Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD). 
+Ao subir arquivos, códigos e pastas ao criar ou ao fazer um pull request para um repositório existente certifique-se que não contenha nenhum dado sensível tais como dados pessoais, dispostos em meio físico ou digital, feito por pessoa física ou jurídica de direito público ou privado. O cuidado com a transferência de dados de terceiros refere-se à [Lei nº 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm) - Lei Geral de Proteção de Dados Pessoais (LGPD). 
 
 Por sua vez, o Art. 7 desta Lei, dispõe sobre as condições que o tratamento de dados pessoais poderá ser realizado. Segundo o § 3º deste artigo,
 > "O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram sua disponibilização."
